@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 /**
  * Barebones driver to figure out where the methods should go
+ * We can figure it out
  */
 public class Driver {
     private static List<StoreItem> inventory = new ArrayList<>();
